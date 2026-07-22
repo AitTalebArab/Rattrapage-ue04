@@ -1023,7 +1023,8 @@ img.content-image {
   .mega-menu { display: none !important; }
 
   .hero h1 { font-size: 2rem; }
-  .intro h2 { font-size: 1.6rem; }
+  .intro h2 { font-size: 1.59rem; }
+  
 
   .apply-inner { flex-direction: column; gap: 32px; }
   .apply-steps { flex-direction: column; gap: 24px; }
