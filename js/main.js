@@ -1,6 +1,4 @@
-// =========================================================
-// Menu mobile : ouverture / fermeture de la navigation
-// =========================================================
+// Script principal : gère le menu mobile et l'effet de scroll du header
 const burger = document.getElementById("burger");
 const mainNav = document.getElementById("main-nav");
 
